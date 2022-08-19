@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhas Palukuri</h1>
 <h3 align="center">An explorer, explores for new Ideas</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif">
 
 <p align="left"> <a href="https://twitter.com/suhaspalukuri" target="blank"><img src="https://img.shields.io/twitter/follow/suhaspalukuri?logo=twitter&style=for-the-badge" alt="suhaspalukuri" /></a> </p>
 
