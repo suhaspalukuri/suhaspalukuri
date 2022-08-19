@@ -16,7 +16,7 @@
 <a href="https://twitter.com/suhaspalukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhaspalukuri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhaspalukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaspalukuri" height="30" width="40" /></a>
 <a href="https://instagram.com/suhaspalukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhaspalukuri" height="30" width="40" /></a>
-<a href="https://medium.com/suhaspalukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="suhaspalukuri" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@suhaspalukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@suhaspalukuri" height="30" width="40" /></a>
 <a href="/https://spotifyanchor-web.app.link/e/6xt4vn9hcsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://spotifyanchor-web.app.link/e/6xt4vn9hcsb" height="30" width="40" /></a>
 </p>
 
